@@ -1,3 +1,4 @@
+import React from 'react';
 import { FaStarHalfAlt } from 'react-icons/fa';
 
 function Program(props) {

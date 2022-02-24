@@ -1,3 +1,4 @@
+import React from 'react';
 import MissionPara from "./MissionPara";
 import data_info from "./data";
 

@@ -1,3 +1,4 @@
+import React from 'react';
 import { BiSend } from 'react-icons/bi';
 
 function Contact() {

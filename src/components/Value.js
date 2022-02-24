@@ -1,3 +1,5 @@
+import React from "react";
+
 function Value(props){
     return <>
         <div className="value">
